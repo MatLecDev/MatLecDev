@@ -1,8 +1,8 @@
 <div align="center">
 
-# Bonjour, je suis Mathéo 👋
+# Hello World! I'm Mathéo 👋
 
-### Développeur Front-End 🚀 à la recherche de mon premier poste
+### Front-End dev looking for his first mission 🚀
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-matheo--leclercq.fr-3ac8c8?style=for-the-badge)](https://matheo-leclercq.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathéo_Leclercq-9c1ed5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheo-leclercq/)
@@ -11,17 +11,19 @@
 
 ---
 
-## 🧭 À propos
+## 🧑🏻 About Me:
 
-Développeur front-end passionné, je conçois des interfaces soignées et j'aime particulièrement travailler le détail — animations, micro-interactions, cohérence visuelle. Actuellement à la recherche de mon **premier poste de développeur front-end**, motivé à apprendre vite et à apporter une vraie valeur dès mes premiers projets en entreprise.
+I'm a passionate Front-End junior dev! I design polished user interfaces and truly take pleasure from paying attention to details! I love implementing fun animations and micro-interactions while keeping my code clean & high-performing.  
 
-Je suis en train d'élargir mes compétences vers le back-end avec **Node.js** et **Express**, pour mieux comprendre le fonctionnement global d'une application et gagner en autonomie sur mes futurs projets.
+I'm actually expanding my skills in back-end development with **Node.js** et **Express** to get a better understanding at how an app works as a whole and to become self-sufficient on my future projects!  
+
+I'm currently looking for my first ✨ **Front-End dev mission** ✨ and i'm eager to learn quickly and become a valuable asset for your company.  
 
 ---
 
-## 🛠️ Stack technique
+## 🛠️ Tech Stack:
 
-**Front-end**
+**Front-End**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -30,12 +32,12 @@ Je suis en train d'élargir mes compétences vers le back-end avec **Node.js** e
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-**En cours d'apprentissage**
+**Actually Learning**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-**Outils**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -43,23 +45,23 @@ Je suis en train d'élargir mes compétences vers le back-end avec **Node.js** e
 
 ---
 
-## 🌌 Projets mis en avant
+## 💻 Featured Projects:
 
-### 🪐 Kasa
-Plateforme de réservation de logements en ligne.
+### 🏠 Kasa
+Online housing booking platform.
 `React` `TypeScript` `CSS`
 
-### 🪐 Abricot
-SaaS de gestion de tâches boostées à l'IA.
+### 📅 Abricot
+AI-powered SaaS for task management.
 `React` `TypeScript` `CSS`
 
-> Retrouve le détail de ces projets et d'autres réalisations sur mon [portfolio](https://matheo-leclercq.fr).
+> Check out the details of these projects and other works on my [portfolio](https://matheo-leclercq.fr).
 
 ---
 
 <div align="center">
 
-**Ouvert à toute opportunité en tant que développeur front-end junior**
-📫 Le meilleur moyen de me contacter : le formulaire sur [matheo-leclercq.fr](https://matheo-leclercq.fr)
+**Open to work as a Junior Front-End Dev**  
+📫 Best way to contact me: matlec.dev@gmail.com
 
 </div>
